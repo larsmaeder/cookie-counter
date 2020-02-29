@@ -1,11 +1,14 @@
 # Cookie Counter
 [![Build Status](https://travis-ci.org/larsmaeder/cookie-counter.svg?branch=master)](https://travis-ci.org/larsmaeder/cookie-counter)
 
+**Read the wiki**
+
+Wiki: [How to play the game](https://github.com/larsmaeder/cookie-counter/wiki)
+
 ## License
 
 ### MIT
 larsmaeder/cookie-counter is licensed under the [MIT License](LICENSE).
-
 
 ### CC BY-SA 4.0
 [![Build Status](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
